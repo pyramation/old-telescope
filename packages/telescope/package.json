@@ -103,5 +103,6 @@
     "parse-package-name": "1.0.0",
     "rimraf": "5.0.0",
     "shelljs": "0.8.5"
-  }
+  },
+  "gitHead": "4c9d84f94ecf44d14baf7a1e7ea674e3e82e5190"
 }
