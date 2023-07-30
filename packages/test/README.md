@@ -1,4 +1,3 @@
-# Testing
+THIS PACKAGE IS DEPRECATED 
 
-This repo is used for examples and testing.
-
+please see https://github.com/cosmology-tech/telescope/
