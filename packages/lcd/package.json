@@ -80,6 +80,5 @@
   "dependencies": {
     "@babel/runtime": "^7.21.0",
     "axios": "0.27.2"
-  },
-  "gitHead": "4c9d84f94ecf44d14baf7a1e7ea674e3e82e5190"
+  }
 }

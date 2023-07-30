@@ -77,6 +77,5 @@
     "@babel/runtime": "^7.21.0",
     "@osmonauts/utils": "^0.11.3",
     "case": "1.6.3"
-  },
-  "gitHead": "4c9d84f94ecf44d14baf7a1e7ea674e3e82e5190"
+  }
 }
